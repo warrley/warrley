@@ -80,6 +80,14 @@ Me chamo [Guilherme Warley Farias](https://www.instagram.com/warleyfariaas/), e 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="C" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -87,18 +95,17 @@ Me chamo [Guilherme Warley Farias](https://www.instagram.com/warleyfariaas/), e 
 ### 📊 Estatísticas
 
 <p>
-![Anurag's GitHub stats]()
 
 <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api?username=warrley&show_icons=true&theme=dark&include_all_commits=true" 
+      src="https://github-readme-stats.vercel.app/api?username=warrley&show_icons=true&theme=dark&include_all_commits=true&custom_title=Estatísticas" 
   />
   <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrley&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
