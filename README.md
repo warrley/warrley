@@ -2,7 +2,7 @@
 
 **`Estudante FullStack`**
 
-Me chamo [Guilherme Warley Farias](https://www.instagram.com/warleyfariaas/), e tenho 18 anos. Atualmente estou cursando Engenharia de Software na UFC.
+Me chamo [Guilherme Warley Farias](https://www.instagram.com/warleyfariaas/), e tenho 18 anos. Atualmente curso Engenharia de Software na UFC.
 
 ---
 
