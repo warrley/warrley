@@ -106,6 +106,6 @@ Me chamo [Guilherme Warley Farias](https://www.instagram.com/warleyfariaas/) e t
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrley&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrley&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=8"
   />
 </p>
