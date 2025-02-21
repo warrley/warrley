@@ -58,6 +58,14 @@ Me chamo [Guilherme Warley Farias](https://www.instagram.com/warleyfariaas/) e t
 />
 <img 
     align="left" 
+    alt="C" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
@@ -88,6 +96,15 @@ Me chamo [Guilherme Warley Farias](https://www.instagram.com/warleyfariaas/) e t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
+<img 
+    align="left" 
+    alt="C" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
+/>
+
 
 <br/>
 <br/>
