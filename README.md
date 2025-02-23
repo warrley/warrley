@@ -1,13 +1,12 @@
 # 👨🏽‍💻 warley
 
-**`Estudante FullStack`**
+**`fullstack student`**
 
-Me chamo [Guilherme Warley Farias](https://www.instagram.com/warleyfariaas/) e tenho 18 anos. Atualmente curso Engenharia de Software na UFC.
+i'm [guilherme warley farias]() and i am 18 years old. i currently study software engineering at the Federal University of Ceara
 
 ---
 
-### 🤖 Linguagens e Tecnologias em desenvolvimento
-
+### 🤖 languages and tecnologies in development 
 <img 
     align="left" 
     alt="HTML"
@@ -109,7 +108,7 @@ Me chamo [Guilherme Warley Farias](https://www.instagram.com/warleyfariaas/) e t
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 statistics
 
 <p>
 
@@ -117,13 +116,13 @@ Me chamo [Guilherme Warley Farias](https://www.instagram.com/warleyfariaas/) e t
       align="left" 
       alt="" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api?username=warrley&show_icons=true&theme=dark&include_all_commits=true&custom_title=Estatísticas" 
+      src="https://github-readme-stats.vercel.app/api?username=warrley&show_icons=true&theme=dark&include_all_commits=true&custom_title=statistics" 
   />
   <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrley&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=6"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrley&theme=dark&layout=compact&custom_title=tecnologies&langs_count=6"
   />
   
 </p>
