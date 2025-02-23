@@ -125,9 +125,5 @@ Me chamo [Guilherme Warley Farias](https://www.instagram.com/warleyfariaas/) e t
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrley&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=6"
   />
-  <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/warrley/warrley/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/warrley/warrley/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/warrley/warrley/output/github-contribution-grid-snake.svg">
-</picture>
+  
 </p>
