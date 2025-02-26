@@ -57,8 +57,8 @@ i'm [guilherme warley farias]() and i am 18 years old. i currently study softwar
 />
 <img 
     align="left" 
-    alt="C" 
-    title="Git"
+    alt="Vite" 
+    title="Vite"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
