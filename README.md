@@ -112,7 +112,7 @@ i'm [guilherme warley farias]() and i am 18 years old. i currently study softwar
 
 <p>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
   <img 
       alt="GitHub Stats" 
       height="180" 
