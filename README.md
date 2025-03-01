@@ -114,13 +114,13 @@ i'm [guilherme warley farias]() and i am 18 years old. i currently study softwar
   <img 
       align="left" 
       alt="GitHub Stats" 
-      width="340" 
+      width="450" 
       src="https://github-readme-stats.vercel.app/api?username=warrley&show_icons=true&theme=dark&include_all_commits=true&custom_title=statistics" 
   />
   <img 
       align="left" 
       alt="GitHub Stats" 
-      width="260" 
+      width="340" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrley&theme=dark&layout=compact&custom_title=technologies"
   />
 </p>
