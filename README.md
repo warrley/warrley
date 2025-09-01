@@ -1,182 +1,54 @@
-# 👨🏽‍💻 warley
-
-**`fullstack student`**
+**`fullstack developer`**
 
 hi, i'm [guilherme warley farias]() and i am 18 years old. i currently study software engineering at the Federal University of Ceara
 
----
+<br>
+<br>
 
-### 🤖 languages and tecnologies in development 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+<div align="center">
+   <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-streak-stats.herokuapp.com?user=warrley&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=700&card_height=200"
 />
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Vite" 
-    title="Vite"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React Native" 
-    title="React Native"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/374034/reacttemplate.svg" 
-/>
-<img 
-    align="left" 
-    alt="Expo" 
-    title="Expo"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/341805/expo.svg" 
-/>
-<img 
-    align="left" 
-    alt="Native Wind" 
-    title="Native Wind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.nativewind.dev/img/logo.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node" 
-    title="Node"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Express" 
-    title="Express"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="FireBase" 
-    title="FireBase"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostGres" 
-    title="PostGres"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
+   
+<br>
+<br>
+   
+<div align="center">
+   <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=warrley&theme=dark"
+   />
+   <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=warrley&theme=dark"
+   />
+</div>
 
+<br>
 
-<br/>
-<br/>
+<div align="center">
+   <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=warrley&theme=dark"
+   />
+</div>
 
-### 📊 statistics
+<br>
+<br>
 
-<p>
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      width="450" 
-      src="https://github-readme-stats.vercel.app/api?username=warrley&show_icons=true&theme=dark&include_all_commits=true&custom_title=statistics" 
-  />
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      width="340" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrley&theme=dark&layout=compact&custom_title=technologies"
-  />
-</p>
+<div align="center" style="display: inline_block">
+   
+  [![My Skills](https://skillicons.dev/icons?i=c,html,css,sass,tailwind,js,ts,react,vite,nextjs,nodejs,express,prisma,java,spring,mysql,postgres,mongodb,firebase,vercel,git,github)](https://skillicons.dev)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=A3DCBE&fontAlignY=56&section=footer&reversal=false"/>
