@@ -1,6 +1,6 @@
 **`fullstack developer`**
 
-hi, i'm [guilherme warley farias]() and i am 19 years old. i currently study software engineering at the Federal University of Ceara
+Hi, i'm [guilherme warley farias]() and i am 19 years old. I currently study software engineering at the Federal University of Ceara
 
 <br>
 <br>
