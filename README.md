@@ -2,17 +2,6 @@
 
 Hi, i'm [guilherme warley farias]() and i am 19 years old. I currently study software engineering at the Federal University of Ceara
 <br>
-<div align="center">
-   <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=warrley&theme=dark"
-   />
-</div>
-
-<br>
-<br>
 
 <div align="center" style="display: inline_block">
    
