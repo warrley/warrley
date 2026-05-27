@@ -1,12 +1,55 @@
-**` developer`**
+<h1 align="center">Hi 👋, I'm Guilherme Warley Farias</h1>
 
-Hi, i'm [guilherme warley farias]() and i am 19 years old. I currently study software engineering at the Federal University of Ceara
-<br>
+<h3 align="center">
+Software Engineering Student • Machine Learning • Backend Developer
+</h3>
 
-<div align="center" style="display: inline_block">
-   
-  [![My Skills](https://skillicons.dev/icons?i=c,html,css,sass,tailwind,js,ts,react,vite,nextjs,nodejs,express,prisma,java,spring,mysql,postgres,mongodb,firebase,vercel,git,github)](https://skillicons.dev)
+<p align="center">
+Software Engineering student at the Federal University of Ceará focused on
+backend development, machine learning, and scalable software systems.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Software Engineering student at the Federal University of Ceará
+- 💻 Backend developer focused on scalable applications and APIs
+- 🧠 Studying Machine Learning and scientific computing
+- ⚙️ Interested in high-performance and concurrent systems
+- 📱 Learning mobile development with Kotlin
+- 🚀 Passionate about building real-world software solutions
+
+---
+
+## 🛠️ Technologies
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,cpp,go,ts,react,nextjs,nodejs,java,kotlin,spring,mysql,postgres,mongodb,git,github)](https://skillicons.dev)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=A3DCBE&fontAlignY=56&section=footer&reversal=false"/>
+---
+
+## 📚 Current Interests
+
+- Machine Learning
+- Deep Learning (PINN's)
+- Backend Development
+- Distributed Systems
+- Concurrent Programming
+- Scientific Computing
+- Mobile Development
+
+---
+
+## 🌎 Contact
+
+- 📧 warleeyfarias@gmail.com
+
+---
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=A3DCBE&section=footer"/>
+</div>
